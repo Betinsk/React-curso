@@ -11,7 +11,7 @@ export function Heading({ children, description }: HeadingProps) {
 
   return (
     <>
-    <h1 className={styles.cyan}>
+    <h1 className={styles.heading}>
      {children}
     </h1>
     <p>{description}</p>
