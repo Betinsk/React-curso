@@ -12,7 +12,7 @@
   justify-content: center;
   text-decoration: none;
   background: var(--primary);
-  background-color: var(--text-over-primary);
+  background-color: var(--primary);
   transition: all 0.1s ease-in-out;
   padding: 1.2rem;
   border-radius: 0.8rem;
